@@ -1,0 +1,214 @@
+.container-fluid img {
+    width: 50px;
+    height: 60px;
+    margin-left: 30px;
+}
+
+.title h1 {
+    font-size: 60px;
+    color: rgb(149, 153, 153);
+    margin-top: 120px;
+    margin-left: 40px;
+    letter-spacing: 2px;
+}
+
+.nav-item a {
+    letter-spacing: 3px;
+    color: #7b7e7e;
+}
+
+.photo1 img {
+    width: 180px;
+    height: 280px;
+    margin-top: 250px;
+    margin-left: 40px;
+}
+
+.photo1 p {
+    font-size: 12px;
+    margin-left: 40px;
+    margin-top: 30px;
+    letter-spacing: 2px;
+    color: #8a8d8d;
+}
+
+.text {
+    writing-mode: vertical-rl;
+    letter-spacing: 6px;
+    font-size: 14px;
+    line-height: 32px;
+    margin-top: 150px;
+    margin-left: 120px;
+    color: #8a8d8d;
+}
+
+.photo2 img {
+    width: 760px;
+    height: 510px;
+    margin-top: 50px;
+}
+
+.candle img {
+    width: 540px;
+    height: 380px;
+    margin-top: 140px;
+}
+
+.book img {
+    width: 170px;
+    height: 250px;
+    margin-left: 40px;
+    margin-top: 350px;
+}
+
+.paper img {
+    width: 200px;
+    height: 150px;
+    margin-top: 170px;
+    margin-left: 30px;
+}
+
+.candle h1 {
+    font-size: 18px;
+    color: rgb(164, 166, 166);
+    margin-top: 20px;
+    margin-left: 40px;
+    letter-spacing: 1px;
+}
+
+.candle p {
+    font-size: 14px;
+    color: rgb(164, 166, 166);
+    margin-top: 20px;
+    margin-left: 70px;
+    letter-spacing: 3px;
+    line-height: 32px;
+}
+
+.life1 h1 {
+    font-size: 32px;
+    color: rgb(164, 166, 166);
+    margin-top: 178px;
+    margin-left: 80px;
+    letter-spacing: 8px;
+    line-height: 32px;
+    writing-mode: vertical-rl;
+}
+
+.life2 p {
+    font-size: 14px;
+    color: rgb(159, 160, 160);
+    margin-top: 180px;
+    margin-left: 80px;
+    letter-spacing: 4px;
+    line-height: 32px;
+    writing-mode: vertical-rl;
+}
+
+.tree img {
+    width: 450px;
+    height: 650px;
+    /* margin-left: 40px; */
+    /* margin-top: 50px; */
+}
+
+.information img {
+    width: 420px;
+    height: 440px;
+    /* margin-right: 100px; */
+    margin-top: 200px;
+}
+
+.end {
+    background-color: #40453a;
+    margin-top: 80px;
+}
+
+.picture img {
+    width: 90px;
+    height: 140px;
+    margin-left: 1px;
+    margin-top: 470px;
+}
+
+.decorate img {
+    width: 40px;
+    height: 640px;
+    margin-left: 10px;
+    margin-top: 50px;
+}
+
+@media(max-width:768px) {
+    .photo2 img {
+        width: 160px;
+        height: 140px;
+        margin-top: 100px;
+    }
+}
+
+@media(max-width:768px) {
+    text {
+        writing-mode: vertical-rl;
+        letter-spacing: 3px;
+        font-size: 10px;
+        line-height: 30px;
+        margin-top: 150px;
+        margin-left: 80px;
+        color: #8a8d8d;
+    }
+}
+
+@media(max-width:768px) {
+    .tree img {
+        background-color: #40453a;
+        margin-top: 80px;
+        margin-left: 60px;
+        width: 300px;
+        height: 450px;
+        justify-content: center;
+    }
+}
+
+@media(max-width:768px) {
+    .information img {
+        width: 320px;
+        height: 340px;
+        /* margin-right: 100px; */
+        margin-top: 20px;
+        margin-left: 50px;
+    }
+}
+
+@media(max-width:768px) {
+    .navbar {
+        width: 768px;
+        height: 100px;
+        /* margin-right: 100px; */
+        /* margin-top: 20px; */
+        /* margin-left: 50px; */
+    }
+}
+
+@media(max-width:768px) {
+    .book img {
+        width: 200px;
+        height: 300px;
+        /* margin-right: 100px; */
+        margin-top: 800px;
+        /* margin-left: 50px; */
+    }
+}
+
+@media(max-width:768px) {
+    .paper img {
+        width: 150px;
+        height: 100px;
+        margin-right: 150px;
+        margin-top: 600px;
+        /* margin-left: 50px; */
+    }
+}
+
+/* .heroimg{
+    background-image: url(1.jpg);
+} */
